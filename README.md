@@ -37,11 +37,12 @@ http://localhost:3000
 
 ## How To Use
 
-1. Choose your session type: Pomodoro (25 min), Short Break (5 min), or Long Break (15 min)
-2. Click the Start button to begin the timer
-3. Focus on your work until the timer ends
-4. When a Pomodoro session completes, enjoy a motivational quote
-5. Take a short break, then continue with another session
+1.	Choose your session type: Pomodoro (25 min), Short Break (5 min), or Long Break (15 min)
+2.	Optionally, open the Settings panel to customize the timer durations
+3.	Click the Start button to begin the timer
+4.	Focus on your work until the timer ends
+5.	When a Pomodoro session completes, enjoy a motivational quote!
+6.	Take a short break, then continue with another session
 
 ## Technologies Used
 
@@ -54,5 +55,8 @@ http://localhost:3000
 
 ## API Used
 
-This project uses the [Quotable API](https://api.quotable.io/) to fetch random motivational quotes.
+This project uses the ZenQuotes API https://zenquotes.io to fetch random motivational quotes.
 
+
+
+© 2025 Mary Grace Digman. All rights reserved.
