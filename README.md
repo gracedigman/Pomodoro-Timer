@@ -1,6 +1,8 @@
-# Cute Pomodoro Timer with Motivational Quotes
+🕒 Pomodoro Timer with Motivational Quotes
 
-A pomodoro timer web application that displays motivational quotes after each completed work session. Built with Express.js, Node.js, and Axios.
+by Mary Grace Digman
+
+A cute and calming Pomodoro timer web app designed to help you stay focused and motivated! Built using Express.js, Node.js, and EJS, this app delivers a random motivational quote after every Pomodoro session to keep you inspired.
 
 ## Features
 
@@ -14,7 +16,7 @@ A pomodoro timer web application that displays motivational quotes after each co
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/pomodoro-quotes.git
+git clone https://github.com/gracedigman/Pomodoro-Timer.git
 cd pomodoro-quotes
 ```
 
@@ -54,9 +56,3 @@ http://localhost:3000
 
 This project uses the [Quotable API](https://api.quotable.io/) to fetch random motivational quotes.
 
-## Color Palette
-
-- Light Background: #F2EFE7
-- Light Accent: #9ACBD0
-- Medium Accent: #48A6A7
-- Dark Accent: #006A71
